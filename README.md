@@ -1,5 +1,4 @@
-| ![logo](logo_small.png) | **Networks Days: a collaborative platform for advancing network science** |
-|-------------------|------------------------------------------------------------------------|
+# Networks Days: a collaborative platform for advancing network science
 
 
 ## Manifesto
