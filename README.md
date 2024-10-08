@@ -1,6 +1,8 @@
 # Networks Days: a collaborative platform for advancing network science
 
-**Do you feel there are plenty of opportunities for large, global events, but not enough small, local workshops dedicated to complex networks? Then you might want to organize your own local Networks Days!**
+## Manifesto
+
+*Do you feel there are plenty of opportunities for large, global events, but not enough small, local workshops dedicated to complex networks? Then you might want to organize your own local Networks Days!*
 
 "Networks Days" is a delocalized scientific workshop aimed at bringing together researchers, students, and professionals in the field of network science. The aim of these events is to foster open discussions about the latest advances and future directions of network research, with a strong focus on collective knowledge-building in an informal, yet academically rigorous, environment.
 
