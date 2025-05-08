@@ -1,6 +1,6 @@
 # Networks Days: a collaborative platform for advancing network science
 
-* Statistics about the past events: [click here](https://github.com/Networks-Days/.github/blob/main/stats.csv)
+For a list of past events, links and related statistics, see `Past Events` below.
 
 ## Manifesto
 
@@ -30,3 +30,10 @@ This is a very important aspect. All materials from "Networks Days" events, such
 Anyone can organize their own "Networks Days" events, provided they adhere to the core principles of the workshop: maintaining small, interactive gatherings and contributing to the shared repository of materials. 
 
 There should be no participation fees, and events are encouraged to seek local funding or small sponsors to support their organization. This open, decentralized model allows for sustainable growth while ensuring that the focus remains on quality discussions and meaningful collaborations.
+
+
+## Past events
+
+* Padua, Italy, 2024-10 [see the event](https://github.com/Networks-Days/2024-10-Padua)
+* Statistics about the past events: [click here](https://github.com/Networks-Days/.github/blob/main/stats.csv)
+
