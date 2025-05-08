@@ -34,6 +34,7 @@ There should be no participation fees, and events are encouraged to seek local f
 
 ## Past events
 
-* Padua, Italy, 2024-10 [see the event](https://github.com/Networks-Days/2024-10-Padua)
-* Statistics about the past events: [click here](https://github.com/Networks-Days/.github/blob/main/stats.csv)
+* **Padua (Italy)**, 2024-10 [see the event](https://github.com/Networks-Days/2024-10-Padua)
+
+For the statistics about the past events: [click here](https://github.com/Networks-Days/.github/blob/main/stats.csv)
 
