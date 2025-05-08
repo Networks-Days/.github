@@ -1,5 +1,6 @@
 # Networks Days: a collaborative platform for advancing network science
 
+* Statistics about the past events: [https://github.com/Networks-Days/.github/blob/main/stats.csv](click here)
 
 ## Manifesto
 
